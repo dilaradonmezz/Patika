@@ -8,7 +8,7 @@ public class Course {
         this.code=code;
         this.prefix=prefix;
         this.teacher=teacher;
-        this.note=note; // yukarıda note= 0 yazınca hata veriyor.
+        this.note=note; 
         int note=0;
         int note1= 0;
 
